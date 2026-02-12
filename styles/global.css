@@ -1,3 +1,9 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
 :root {
     /* font-size: 16px; */
     /* font-size: 100%; */
@@ -18,4 +24,8 @@
     --stroke-default: #D6D3D1;
     --stroke-hightlight: #D6D3D1;
     --semantic-error: #DC2626;
+}
+
+body {
+    overflow: hidden;
 }
