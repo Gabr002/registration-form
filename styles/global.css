@@ -24,6 +24,8 @@
     --stroke-default: #D6D3D1;
     --stroke-hightlight: #D6D3D1;
     --semantic-error: #DC2626;
+
+    /* zoom: 60%; */
 }
 
 body {
